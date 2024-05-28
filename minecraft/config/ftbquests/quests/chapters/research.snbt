@@ -1,0 +1,41 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "research"
+	group: ""
+	id: "24A7AA5C6AFEB66A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "318C793CE4E426E9"
+			tasks: [{
+				id: "3495F7CFFF3C7044"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["318C793CE4E426E9"]
+			id: "6F43AFC183E83956"
+			tasks: [{
+				id: "004F4243D2F1A8D4"
+				type: "custom"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["318C793CE4E426E9"]
+			id: "2CC6577BD002DC0C"
+			tasks: [{
+				id: "0CA7EE9378526B9A"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+	]
+	title: "research"
+}
