@@ -16,3 +16,4 @@ modlist.html
 # minecraft/kubejs/data/minecraft/worldgen*
 minecraft/resourcepacks/Quark*
 minecraft/config/everycomp-hazardous.properties
+/minecraft/config/konkrete/locals
